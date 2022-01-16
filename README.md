@@ -66,12 +66,17 @@ Using a for loop with If Then to store the data for each stock and then display 
 
     Next j
     
-See posted screenshots of results of All Stocks 2017 and 2018 data
+See posted screenshots of results of All Stocks 2017 and 2018 data. To monitor how long it takes for the code to run I used:
+
+    Dim startTime As Single
+    Dim endTime  As Single
+    endTime = Timer
+    MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
 
 # Summary
 
 There are advantages and disadvantages  to refactoring code. On one hand it does give you some insight into what the person who wrote the code is working on. But on the other hand the code doesn't necesarily fit with your existing data. You also have to comb through it and make sure there are no issues with existing code.
 
-Refactoring VBA script is workable. There are resources online if you run into issues. I did run into a few errors that took awhile to settle (code 6 and code 9 i believe).
+Refactoring VBA script is workable. There are resources online if you run into issues. I did run into a few errors that took awhile to settle (code 6 and code 9 I believe).
 
 
