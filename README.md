@@ -6,7 +6,7 @@ Steve loved the workbook that was prepared for him to analyze an entire data set
 
 Another thing monitored will be how long it takes to run the code. If Steve wants to analyse a higher amount of stocks I want to make it as fast as possible.
 
-** Results **
+# Results
 
 The first thing to do was set up new arrays tickerStartingPrices as Single and tickerEndingPrices as Single and tickerVolumes = 0.
     
