@@ -66,7 +66,7 @@ Using a for loop with If Then to store the data for each stock and then display 
 
     Next j
     
-    See posted screenshots of results of All Stocks 2017 and 2018 data
+See posted screenshots of results of All Stocks 2017 and 2018 data
 
 # Summary
 
